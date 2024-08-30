@@ -1,4 +1,4 @@
-##Interactive Order Processing System
+Interactive Order Processing System
 
 This Python program is most useful for creating interactive sites where users can order items and receive the total price of their orders.
 
