@@ -12,6 +12,7 @@ Customizable Inventory: The inventory of items and their prices can be easily mo
 Error Handling: The script includes basic error handling to ensure that user inputs are valid, preventing crashes and ensuring a smooth user experience.
 
 How It Works
+
 Inventory Setup: The program begins by defining a dictionary containing the available items and their respective prices.
 
 User Interaction: The user is prompted to enter the quantity of each item they wish to purchase. The script collects this information and stores it in a separate dictionary.
